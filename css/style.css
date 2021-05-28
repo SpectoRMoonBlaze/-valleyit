@@ -1,0 +1,336 @@
+body{
+
+			font-family: 'Russo One', sans-serif;
+			background:url(../photo/1.jpg);
+			background-size: cover;
+			background-attachment: fixed;
+		}
+
+		.form {
+
+	height:1500px;
+	width:1400px;
+	position: absolute;
+	top: 90%;
+	left: 50%;
+	background: rgba(0,0,0,..01);
+	transform: translate(-51%,-50%);
+	border-radius: 30px;
+	}
+
+
+		.menu{
+			transition: .3s;
+			width: 800px;
+	height: 80px;
+	background: rgba(10,10,10,.5);
+	border: 1px red solid;
+	border-radius: 3px;
+	position: absolute;
+	left:24%;
+	top: 14%;
+		}
+		.menu:hover{
+			width: 800px;
+	height: 80px;
+	background: rgba(10,10,10,.5);
+	border: 1px darkred solid;
+	border-radius: 10px;
+	position: absolute;
+	left:24%;
+	top: 14%;
+		}
+		.top{
+			position: absolute;
+			top: 15px;
+			left: 20px;
+			border:1px red solid;
+			border-radius: 10px;
+			height: 50px;
+			width: 120px;
+		}
+		
+		
+		.topt{
+			position: absolute;
+			top: 8px;
+			left: 20%;
+			font-size: 25px;
+
+		}
+
+		.youtube{
+			position: absolute;
+			top: 15px;
+			left: 200px;
+			border:1px red solid;
+			border-radius: 10px;
+			height: 50px;
+			width: 120px;
+		}
+		
+
+		.youtubet{
+			position: absolute;
+			top: 8px;
+			left: 10%;
+			font-size: 25px;
+
+		}
+
+		.vk{
+			position: absolute;
+			top: 15px;
+			left: 380px;
+			border:1px red solid;
+			border-radius: 10px;
+			height: 50px;
+			width: 60px;
+		}
+	
+
+		.vkt{
+			position: absolute;
+			top: 8px;
+			left: 25%;
+			font-size: 25px;
+
+		}
+.ffind{
+	font-size: 15px;
+  position:absolute;
+  top:2px;
+  left:4px;
+}
+		.find{
+			position: absolute;
+			top: 46px;
+			left: 700px;
+			border:1px red solid;
+			border-radius: 10px;
+			height: 22px;
+			width: 70px;
+		}
+
+
+
+.ffind2{
+
+	font-size: 15px;
+  position:absolute;
+  top:2px;
+  left:18px;
+}
+		.find2{
+			position: absolute;
+			top: 15px;
+			left: 700px;
+			border:1px red solid;
+			border-radius: 10px;
+			height: 22px;
+			width: 70px;
+		}
+
+
+		.find1{
+			color: black;
+			background: darkgray;
+			position: absolute;
+			top: -1px;
+			left: 0px;
+			border:1px red solid;
+			border-radius: 10px;
+			height: 30px;
+			width: 300px;
+		}
+.h1{
+	position: absolute;
+	top: 10%;
+	left: 45%;
+}
+.sideMenu{
+	height: 400px;
+	width: 300px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 25%;
+left: 81%;
+border-radius: 5px;
+border:red 1px solid;
+
+
+}
+
+.sideMenu:hover{
+	transition: 0.3s;
+	height: 400px;
+	width: 300px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 25%;
+left: 81%;
+border-radius: 25px;
+border:darkred 1px solid;
+
+
+}
+
+.js{
+	height: 40px;
+	width: 230px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 15%;
+left: 10%;
+border-radius: 5px;
+border:red 1px solid;
+}
+.jst{
+	position: absolute;
+	left: 32%;
+	top: 10%;
+	font-size: 25px;
+}
+
+.html{
+	height: 40px;
+	width: 230px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 30%;
+left: 10%;
+border-radius: 5px;
+border:red 1px solid;
+}
+.htmlt{
+	position: absolute;
+	left: 32%;
+	top: 10%;
+	font-size: 25px;
+}
+
+.php{
+	height: 40px;
+	width: 230px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 45%;
+left: 10%;
+border-radius: 5px;
+border:red 1px solid;
+}
+.phpt{
+	position: absolute;
+	left: 42%;
+	top: 10%;
+	font-size: 25px;
+}
+.phpp{
+	position: absolute;
+	top: 15%;
+	left: 2%;
+}
+
+.wallpapers{
+	height: 40px;
+	width: 230px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 60%;
+left: 10%;
+border-radius: 5px;
+border:red 1px solid;
+}
+.wallpaperst{
+	position: absolute;
+	left: 30%;
+	top: 10%;
+	font-size: 25px;
+}
+.wallpapersp{
+	position: absolute;
+	top: 15%;
+	left: 2%;
+}
+
+.soft{
+	height: 40px;
+	width: 230px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 75%;
+left: 10%;
+border-radius: 5px;
+border:red 1px solid;
+}
+.softt{
+	position: absolute;
+	left: 30%;
+	top: 10%;
+	font-size: 25px;
+}
+.softp{
+	position: absolute;
+	top: 15%;
+	left: 2%;
+}
+.new{
+	height: 400px;
+	width: 700px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 25%;
+left: 26%;
+border-radius: 5px;
+border:red 1px solid;
+}
+
+.new:hover{
+	transition: 0.3s;
+	height: 400px;
+	width: 700px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 25%;
+left: 26%;
+border-radius: 20px;
+border:darkred 1px solid;
+}
+
+.sidebar{
+	height: 400px;
+	width: 300px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 25%;
+left: -1%;
+border-radius: 5px;
+border:red 1px solid;
+}
+
+.sidebar:hover{
+	transition: 0.3s;
+	height: 400px;
+	width: 300px;
+	background: rgba(0,0,0,.5);
+position: absolute;
+top: 25%;
+left: -1%;
+border-radius: 20px;
+border:darkred 1px solid;
+}
+
+.new1{
+position: absolute;
+top: 20%;
+left: 47%;
+}
+
+.reklama{
+	width: 280px;
+	height: 340px;
+	background: white;
+	position: absolute;
+	left:10px;
+	top:45px;
+}
